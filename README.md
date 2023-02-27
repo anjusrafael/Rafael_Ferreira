@@ -1,5 +1,7 @@
-<h1>Olá! eu sou o <i>Rafael Ferreira</i></h1>
+<h1 style="border:none;">Olá! eu sou o <i>Rafael Ferreira</i></h1>
 <h2>Programador Front-end!<h2>
+ 
+
 
   <b>Hoje em dia trabalho com:</b>
 
