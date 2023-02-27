@@ -1,5 +1,7 @@
-## Olá! eu sou o Rafael Ferreira
-Programador Front-end!
+<h1>Olá! eu sou o <i>Rafael Ferreira</i></h1>
+<h2>Programador Front-end!<h2>
+
+  <b>Hoje em dia trabalho com:</b>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
